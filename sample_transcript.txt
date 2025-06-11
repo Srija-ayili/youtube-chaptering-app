@@ -1,0 +1,6 @@
+Welcome to this tutorial. Today we are going to learn about Python programming.
+Python is one of the most popular programming languages in the world.
+We'll start by discussing what Python is and why it's useful.
+Then, we’ll look into installing Python on your system.
+After that, we’ll explore how to write basic programs, use variables, and create functions.
+By the end of this session, you'll be able to build your own small Python programs with confidence.
